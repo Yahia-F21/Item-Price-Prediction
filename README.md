@@ -77,9 +77,3 @@ Suggested next steps
 Author / Credits
 - Educational / competition-style pipeline combining modern ensembling and pseudo-labeling techniques. Designed for reproducible model development and leaderboard submission.
 
-If you want, I can:
-- generate a `requirements.txt` with likely package versions,
-- add a small runner script, or
-- convert the main script to accept CLI arguments.
-
-File saved: [project2_v6_complete/README.md](project2_v6_complete/README.md)
